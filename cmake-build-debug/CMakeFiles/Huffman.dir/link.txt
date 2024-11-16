@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++ -g -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.4 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/Huffman.dir/main.cpp.o CMakeFiles/Huffman.dir/Bit.cpp.o -o "/Users/arhaan/Downloads/Huffman2024 2/Huffman" 
